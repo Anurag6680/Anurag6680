@@ -4,8 +4,8 @@
 
 Talking about Personal Stuffs:
 
-🛠 I’m currently working with - Html/Css, React, JavaScript, TypeScript,C++,Data Structure
-etcetc 💻.
+🛠 I’m currently working with - Html/Css, React,JavaScript,TypeScript,C++,Data Structure
+💻.
 
 👨🏻‍💻 I’m currently learning Front end Development 🚀.
 
